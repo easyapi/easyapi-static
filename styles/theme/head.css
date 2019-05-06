@@ -1,0 +1,25 @@
+
+.toper{z-index: 33333; width:100%;padding:0 15px; height:50px;background: #18c1d6; }
+.toper .logo{margin-top:9px;width:170px;}
+.toper .navs{ line-height: 50px;}
+.toper .navs a{color:#fff;margin-left:20px;display: inline-block;padding:0 10px;height:50px }
+.toper .navs a:hover{ border-bottom:1px solid #fff;text-decoration: none;}
+.toper .upbx{position: relative;min-width:170px; color:#fff;height:50px; line-height:53px;padding:0 10px;}
+.toper .navs span{color:#fff;padding-left: 20px;;}
+.toper .vimg{width:25px;height:25px;margin:12px 10px 0 0;float:left;}
+.toper .upbx a{margin:0;padding:0;}
+.toper .upbx a:hover{border-bottom:0px;}
+.upbx img{margin:0px 5px 0 0;width:30px;height:30px;border-radius: 50%}
+.upbx .ov{display: none;width:100%;left:0px; top:55px;overflow:hidden;line-height:38px;position: absolute;background: #fff;border:1px solid #eee;border-radius: 6px;}
+.upbx .ov a{color:#666;display:block;font-size:14px;padding:0 20px;height:38px;line-height:38px;}
+.upbx .ov a:hover{background: #3f4657;color:#Fff;}
+.upbx:hover .ov{display:block;}
+
+.prname{float:left;color:#fff;line-height:50px;font-size:16px;font-weight: normal}
+input{outline: none}
+
+
+
+.big-title{padding:13px 0;}
+.big-title span{font-size:20px;}
+.big-title .btn{margin-top:3px;}

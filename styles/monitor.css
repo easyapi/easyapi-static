@@ -1,0 +1,110 @@
+
+.monitor-bd{padding:0px 0 0px}
+.monitor-bd .mtab{padding:15px 0;}
+.monitor-bd .mtab a{font-size:16px;color:#333;display:inline-block;padding:5px 0;margin-right:15px;}
+.monitor-bd .mtab a.on{color:#00b2c8;border-bottom:3px solid #00b2c8;color:#00b2c8}
+.monitor-bd .supbox .sb{margin-bottom:20px;border:1px solid #ddd;height:150px; box-shadow:0 0 5px #ddd; border-radius:2px; }
+.monitor-bd .supbox .sb dt{width:300px;height:150px;float:left;font-weight:normal;padding:10px;color:#fff;position: relative}
+.monitor-bd .supbox .sb dt span{z-index: 22;position: absolute}
+.monitor-bd .supbox .sb dt:after{content:"";position: absolute;right:0px;left:0px;top:0px;height:50px;background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);}
+.monitor-bd .supbox .sb dd{margin-left:320px;}
+.monitor-bd .supbox .sb dd p{display: inline-block;float:left;text-align: center;width:160px;padding-top:40px;}
+.monitor-bd .supbox .sb dd p span{display: block;font-size:28px;color:#00b2c8}
+.monitor-bd .supbox .sb dd p i{font-size:12px;color:#333}
+
+.monitorbd-alert-history{padding:15px;}
+.monitorbd-alert-history .form-inline{padding-bottom:20px;}
+.monitorbd-alert-history .pagination{margin-top:0px;}
+.monitorbd-alert-history .pagination a{margin-left:5px;color:#00b2c8}
+.monitorbd-alert-history .pagination li.active a{background-color:#00b2c8;border:1px solid #00b2c8;color:#fff;}
+
+
+
+.monitor-bd .list {  width: 180px;  float: left;  overflow: hidden;top:0px;  background:#ecf1f5;  border-right: 0px;  min-height: 822px;  }
+.monitor-bd .list dl {  border-bottom: 1px solid #ddd;  padding-bottom: 20px;  }
+.monitor-bd .list dl dt {  padding:30px 15px 15px;  font-size: 16px;  font-weight: normal;  }
+.monitor-bd .list dl dd a {  display: block;  padding: 8px 15px;  color: #888;  font-size: 14px;  }
+.monitor-bd .list dl dd a:hover {  background: #ededed;  text-decoration: none;  font-weight: normal;  }
+.monitor-bd .list dl dd a.active {  background: #fff;border-left:3px solid #1bc1d7;color:#1bc1d7  }
+
+.monitor-bd .monitor-rbox{margin-left:180px;}
+.monitor-bd .monitor-rbox .hd-title{border-bottom:1px solid #ddd;padding:15px 0 15px 30px;margin-right:30px;}
+
+.monitor-bd .monitor-rbox .area-map{border:1px solid #ddd;margin:20px 30px;padding:15px;border-radius: 5px;height:500px; }
+.monitor-bd .monitor-rbox .areabox .lists{border:1px solid #ddd;padding:15px;margin:20px 30px;border-radius: 5px;}
+.monitor-bd .monitor-rbox .areabox .lists .table thead th{font-weight: normal;border-bottom:1px solid #ddd;}
+.monitor-bd .monitor-rbox  .lbox{width:65%;flaot:left;}
+.monitor-bd .monitor-rbox  .rbox{width:34%;flaot:right;}
+.monitor-bd .monitor-rbox .overview{padding:30px;}
+.monitor-bd .monitor-rbox .overview .box{border:1px solid #ddd;margin-bottom:20px;border-radius: 5px;padding:5px;box-sizing: border-box}
+.monitor-bd .monitor-rbox .overview .box .hd{color:#666;font-size:12px;}
+.monitor-bd .monitor-rbox .overview .box .hd i{color:#00b2c8;font-size:12px;margin-left:5px;}
+.monitor-bd .monitor-rbox .overview .btbox .box{width:32%;float:left;margin-right:1%;}
+.monitor-bd .monitor-rbox .overview .btbox .box:last-child{width:34%;margin-right:0px;}
+.monitor-bd .monitor-rbox .overview .box .tab{padding:10px 0;}
+.monitor-bd .monitor-rbox .overview .box .tab span{display: inline-block;background:#f5f5f5;font-size:12px;padding:2px 5px;}
+.monitor-bd .monitor-rbox .overview .box .tab span.on{background:#d7f5f9;color:#15c1d6}
+.monitor-bd .monitor-rbox .errorbox{padding:30px 30px 0;}
+.monitor-bd .monitor-rbox .errorbox .box{border-radius: 5px;border:1px solid #ddd;padding:5px;box-sizing: border-box}
+.monitor-bd .monitor-rbox .errorbox .btt{margin-top:25px;}
+.monitor-bd .monitor-rbox .errorbox .btt .box{width:30%;padding:15px; }
+.monitor-bd .monitor-rbox .errorbox .btt  .tag{padding:10px 0;}
+.monitor-bd .monitor-rbox .errorbox .btt  .tag p{background:#f5f5f5;margin-bottom:5px;padding:5px;border-radius: 3px;}
+.monitor-bd .monitor-rbox .errorbox .btt .lists{width:69%;box-sizing: border-box;border:1px solid #ddd;padding:15px;box-sizing: border-box}
+.monitor-bd .monitor-rbox .errorbox .btt .lists .table thead th{font-weight: normal;border-bottom:1px solid #ddd;}
+
+.monitor-bd .monitor-rbox .spbox{padding:30px;}
+.monitor-bd .monitor-rbox .spbox .lbox{width:28%;}
+.monitor-bd .monitor-rbox .spbox .rbox{width:71%;}
+.monitor-bd .monitor-rbox .spbox .box{padding:15px;border-radius: 5px;border:1px solid #ddd;}
+.monitor-bd .monitor-rbox .spbox .box{margin-bottom:20px;}
+.monitor-bd .monitor-rbox .spbox .box .tab{}
+.monitor-bd .monitor-rbox .spbox .box .tab a{border-radius:3px;padding:3px 10px;display: inline-block;font-size:12px;color:#00b2c8}
+.monitor-bd .monitor-rbox .spbox .box .tab a.on{background: #00b2c8;color:#fff;}
+.monitor-bd .monitor-rbox .spbox .box  .tag{padding:10px 0;}
+.monitor-bd .monitor-rbox .spbox .box  .tag p{background:#f5f5f5;margin-bottom:5px;padding:5px;border-radius: 3px;}
+.monitor-bd .monitor-rbox .spbox .box  .hd{color:#333;font-size:12px;padding-bottom:10px;}
+.monitor-bd .monitor-rbox .spbox .box  .hd i{color:#00b2c8;font-size:12px;margin-left:5px;}
+
+.monitor-bd .monitor-rbox .spbox .lists{border:1px solid #ddd;padding:15px;box-sizing: border-box}
+.monitor-bd .monitor-rbox .spbox .lists .table thead th{font-weight: normal;border-bottom:1px solid #ddd;font-size:12px;}
+
+.monitor-bd .alertbox{padding:30px 350px  350px 30px;overflow: hidden}
+.monitor-bd .alertbox .top{font-size:12px;color:#666}
+.monitor-bd .alertbox .title{border-bottom:1px solid #ddd;color:#333;padding:10px 0;margin:10px 0}
+.monitor-bd .alertbox .tema .li{width:100%;padding-top:10px;}
+.monitor-bd .alertbox .tema .li .group {width:250px;float:left;margin-right:40px;}
+.monitor-bd .alertbox .tema .li .group .form-control{width:90px;float:left;padding:0 5px;height:28px;}
+.monitor-bd .alertbox .tema .li .group .lab{line-height:28px;float: left;font-weight: normal;padding:0 5px}
+.monitor-bd .alertbox .tema .li .group label{font-weight: normal}
+.monitor-bd .alertbox .tema .li .group .iconfont{font-size:30px;line-height: 30px;margin-left:20px;}
+.monitor-bd .alertbox .tema .li .group .icon-kaiguankai{color:#18b8cc}
+.monitor-bd .alertbox .temb{padding:20px 0;}
+.monitor-bd .alertbox .temb ul li{height:60px;width:240px;padding-left:20px;float:left;}
+.monitor-bd .alertbox .temb ul li img{width:60px;height:60px;float:left;border-radius: 50%;}
+.monitor-bd .alertbox .temb ul li  .tex{margin-left:75px;font-size:14px;}
+.monitor-bd .alertbox .temb ul li  .tex a{color:#18b8cc;display: block;padding-top:8px;}
+.monitor-bd .alertbox .temb ul .add a{width:60px;font-size:36px;height:60px;line-height: 53px;box-sizing:border-box;text-align: center; display: inline-block;border-radius: 50%;border:1px solid #00b2c8;color:#00b2c8;}
+.monitor-bd .alertbox .temb .btnbox{padding:40px 0;}
+.monitor-bd .alertbox .temb .btnbox .btn{padding:3px 20px;}
+
+.monitor-bd .reportbox{padding:30px 30px 50px;overflow: hidden}
+.monitor-bd .reportbox .topr .tab{float:left;margin-right:10px;}
+.monitor-bd .reportbox .topr .tab span{background:#f5f5f5;display: inline-block;padding:5px 15px;border-radius: 3px;float:left;margin-right:5px;}
+.monitor-bd .reportbox .topr .tab .on{background:#d7f5f9;color:#00b2c8;}
+.monitor-bd .reportbox .topr label{font-weight: normal}
+.monitor-bd .reportbox .borbox{border:1px solid #ddd;border-radius: 4px;margin-top:20px;padding:15px;}
+.monitor-bd .reportbox .borbox .table thead th{font-weight: normal;border-bottom:1px solid #ddd;}
+.monitor-bd .reportbox .borbox .table .pro{border-radius:5px;width:100%;background:#dcdcdc; display: block;overflow: hidden; margin-right:20px;height:20px;}
+.monitor-bd .reportbox .borbox .table .pro i{line-height20px;float:left;height:20px;background:#18c1d6;color:#fff;display: inline-block;box-sizing: border-box;padding:0 5px;font-size:12px;}
+.monitor-bd .reportbox .borbox .table  i.icon-daochu{color:#8fc31f}
+
+.monitorbd_alert_teamlist{padding:15px;}
+.monitorbd_alert_teamlist ul li {height:60px;padding:5px 0;height:80px;}
+.monitorbd_alert_teamlist ul li img{width:60px;height:60px;border-radius: 50%;float:left;}
+
+.monitorbd_alert_teamlist ul li .tex{margin-left:75px;padding-top:15px;}
+.monitorbd_alert_teamlist ul li .tex .btn{float: right;display:inline-block;padding:3px 15px;}
+.monitorbd_alert_teamlist ul li .name{color:#333;display:inline-block;padding-top:5px;}
+
+

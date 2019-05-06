@@ -1,0 +1,39 @@
+.st{min-height:500px;}
+.st-side{padding-top:6px;width:223px;float:left;overflow: hidden;background:#ecf1f5}
+.st-side .tit{ color:#666;padding:0 20px 0 30px;font-size:18px;line-height:50px;}
+.st-side .snav a{border-left:3px solid #ecf1f5;padding:10px 20px 10px 30px;font-size:15px; display:block;color:#999;}
+.st-side .snav a.active,.st-side .snav a:hover{background:#fefefe;border-left:3px solid #18c1d6;color:#18c1d6}
+label{font-weight: normal !important;}
+.stbox{margin-left:223px;}
+.stbox strong{font-weight:normal}
+.stbox  .title{padding:20px 0 10px 50px;margin-bottom:30px;font-size:18px;border-bottom:1px solid #ddd}
+.stbox .addform{padding-top:0px;}
+.stbox .addform .input-group-addon{background:#fff;padding-right:0}
+.stbox .addform .bl0{border-left:0px;padding-left:2px;}
+.stbox .settop .form-horizontal{width:1000px;min-height:500px;}
+.stbox .settop .form-horizontal .control-label{font-weight: normal}
+.setting{ overflow:hidden}
+.setting .settop {  padding: 0px 0 50px;  }
+.setting .settop .ath {  position: relative;  padding-left: 70px;  height: 120px  }
+.setting .settop .ath .h4{margin-bottom:0px;margin-top:5px;font-size:14px;color:#333 !important;}
+.setting .settop .ath p span{padding-bottom:10px;font-size:12px;color:#999}
+.setting .settop .ath .btn-bor{display:inline-block;padding:5px 20px;font-size:12px;}
+.setting .settop .ath img {  float: left;  width:80px;  height:80px;  border-radius: 50%  }
+.setting .settop .ath .loading {  display: none;  position: absolute;  background: #fff url(../images/up.gif) center no-repeat;  width: 60px;  height: 60px;  top: 20px;  left: 180px;  border-radius: 50%;  }
+.setting .settop .ath p {  margin: 20px 0 15px 100px;  height: 100px;  }
+.setting .settop .ath p span {  display: block;  }
+.setting .settop .ath p a {  padding: 20px 0 5px;  display: block;  }
+.setting .oinfo {  border-top: 1px solid #ddd;  padding: 50px 0;  }
+
+.stbox .webhook{width:80%;margin-left:50px;}
+.stbox .webhook .table thead tr th{font-weight: normal}
+.stbox .webhook .table{border-bottom:1px solid #ddd;}
+.stbox .qianming{width:80%;margin-left:50px}
+.stbox .qianming .dome  dt{border-bottom:1px solid #eee;font-weight: normal;padding-bottom:8px;color:#333}
+.stbox .qianming .dome {padding:30px 0;}
+.stbox .qianming .dome  dd{line-height: 1.7;padding-top:10px;}
+.stbox .qianming .dome  dd pre{background:none;border:0px;}
+
+.stbox .transfer{width:500px;margin-left:50px}
+.stbox .transfer .fmbox{width:300px;padding-top:30px;}
+.stbox .transfer .fmbox label{color:#999;font-size:12px;}

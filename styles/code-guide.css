@@ -1,0 +1,69 @@
+body{background:#fafafa;padding:0;margin:0;font-family: "Microsoft YaHei","Helvetica Neue","Luxi Sans","DejaVu Sans",Tahoma,"Hiragino Sans GB",STHeiti,Arial,sans-serif;}
+li,ul,ol{list-style: none; padding:0;margin:0;}
+.clearfix:after{clear: both;content: ".";display: block;height: 0;visibility: hidden; }
+.clearfix{}
+
+.btn{font-size:16px;padding:5px 18px;display: inline-block;border-radius: 6px;border:0;cursor:pointer;}
+.btn-info{color:#fff;background:#00b2c8; }
+.btn-info:hover{background:#0199ac }
+.btn-default{}
+.supercontainer{background: url(../images/bg_00.jpg) no-repeat;background-size: 100% 100%;}
+a{text-decoration: none;}
+.pl{float:left;}
+.pr{float: right;}
+.wp{max-width:1200px;margin:0 auto;}
+.table{border-collapse: collapse;border-spacing: 0;width:100%;border-radius: 5px;text-align: center;}
+.table-bordered tr th{background: #f5f5f5; border: 1px solid #ddd;font-weight: normal;padding:5px 0;}
+.table-bordered tr td {border: 1px solid #ddd;color:#777;padding:5px 0;font-size:14px;}
+ 
+.masthead{background: #00b3c8;padding:50px 0;color:#fff;margin-top:70px;}
+.masthead h1{margin:0;}
+.container{max-width:1200px;margin:0 auto;} 
+
+
+.side{float:left;width:320px;border:1px solid #eee;border-radius: 6px;}
+.side h2{padding:0 20px;}
+.side-nav li p a{display:block;color:#888; line-height:12px; padding:6px 0 6px 15px;font-size:10px;} 
+.side-nav li .hd{margin:0 20px;padding:5px 0; line-height:25px;display:block; border-top:1px solid #ddd;border-bottom:1px solid #ddd;}
+.side-nav li p a:hover{background: #eee;border-right:4px solid #00b3c8;} 
+
+.main{margin:20px 0 0 340px;}
+.breadcrumb{margin:0;color:#777;height:40px;line-height: 40px;}
+.breadcrumb a{margin-right:6px;color:#00b2c8;}
+.breadcrumb a:hover{text-decoration: underline;} 
+
+.showapi{padding:20px 0;border-top:1px solid #ddd;}
+.showapi h3{font-size:26px;font-weight: normal;margin:0;}
+.showapi a.btn{color:#fff;border-radius: 5px; background: #00b3c8;display: inline-block;padding:2px 20px;}
+.showapi a.btn:hover{ background: #0497a8}
+.showapi span{color:#777;}
+.mtp{margin-top:90px;}
+
+.form-chk{width:50%;margin:10% 0;}
+.col-sm-3{width:20%;float:left;text-align: right;}
+.col-sm-5{margin:0 30% 0 23%;position:relative;}
+ 
+.col-sm-5 .tper{position: absolute;right:-120px;top:10px; display: inline-block;background: #eee;border-radius: 4px;padding:2px 10px;}
+.col-sm-7{margin-left:23%;}
+.off-sm-7{margin-left:23%;}
+.form-group{padding-bottom:15px;}
+.form-group .control-label{line-height: 38px;}
+.form-group .form-control{height:20px;line-height:20px;padding:10px 5px;border-radius: 5px;border:1px solid #eee;width:80%}
+.form-group  select.form-control{width:250px;height:36px;padding:0px 10px;}
+
+.textar label{display: block;margin-bottom:10px;}
+.textar textarea{min-height:120px;}
+
+
+
+.apitable h4{background: #eee;padding:5px;margin:8px 0;font-size:14px;font-weight: normal;}
+
+#tooltip{position:absolute;border-radius: 5px;color:#fff; border:1px solid #222;background:rgba(0,0,0,0.7);padding:2px 5px;display:none;}
+
+.foot{text-align:center;padding:15px 0;border-top:1px solid #ddd;background:#fff;margin-top:20px}
+.foot p{line-height: 20px;padding:0;margin:0;color:#888;font-size: 12px;}
+.foot p a{color:#555;margin:0 5px;}
+.foot p a:hover{color:green; }
+
+
+

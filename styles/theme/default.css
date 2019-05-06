@@ -1,0 +1,137 @@
+@import "//at.alicdn.com/t/font_6qnnilknc1r4fgvi.css";
+@import "head.css";
+body{background:#fff;padding:0;margin:0;font-family: "Microsoft YaHei","Helvetica Neue","Luxi Sans","DejaVu Sans",Tahoma,"Hiragino Sans GB",STHeiti,Arial,sans-serif;}
+li,ul,ol,h3,p,h4{list-style: none; padding:0;margin:0;font-weight:normal;}
+.clearfix:after{clear: both;content: ".";display: block;height: 0;visibility: hidden; }
+.clearfix{}
+.btn{font-size:16px;padding:5px 18px;display: inline-block;border-radius: 6px;border:0;cursor:pointer;}
+.btn-info{color:#fff;background:#00b2c8; }
+.btn-info:hover{background:#0199ac }
+.btn-default{}
+.supercontainer{background: url(../images/bg_00.jpg) no-repeat;background-size: 100% 100%;}
+a{text-decoration: none;}
+.pl{float:left;}
+.pr{float: right;}
+.wp{max-width:1200px;margin:0 auto;}
+.del-line{text-decoration: line-through}
+.hdinfo{background:#ddedf4;padding:30px 0;margin-bottom:20px;}
+.hdinfo a{color:#333}
+.hdinfo .serch{position: relative}
+.hdinfo .serch input{padding:0 5px;}
+.hdinfo .serch i{position: absolute;right:5px;}
+
+
+.toper{z-index: 33333;width:100%;padding:0 15px; height:50px;background: #1ac0d5; }
+.toper .wp{max-width: inherit}
+.toper .logo{margin-top:15px;}
+.toper .navs{ line-height: 50px;}
+.toper .navs a{color:#fff;margin-left:20px;display: inline-block;padding:0 10px; }
+.toper .navs a:hover{ }
+.toper .upbx{position: relative;min-width:170px; color:#fff;height:54px; line-height:53px;padding:0 10px;}
+ .toper .navs span{color:#fff;padding-left: 20px;;}
+ .toper  .prname{float:left;color:#fff;line-height:50px;font-size:20px}
+ .toper  .prname img{margin-right:10px; border-radius:5px;width:25px;height:25px; vertical-align:middle}
+.toper .upbx a{margin:0;padding:0;}
+.toper .upbx a:hover{border-bottom:0px;}
+.upbx img{margin:0px 5px 0 0;width:30px;height:30px;border-radius: 50%; }
+.upbx .ov{display: none;width:100%;left:0px; top:53px;overflow:hidden;line-height:38px;position: absolute;background: #fff;border:1px solid #eee;border-radius: 6px;}
+.upbx .ov a{color:#666;display:block;font-size:14px;padding:0 20px;}
+.upbx .ov a:hover{background: #1ac0d5;color:#Fff;text-decoration: none;}
+.upbx:hover .ov{display:block;}
+
+.masthead{background: #24a4a1;padding:50px 0;color:#fff;margin-top:70px;}
+.masthead h1{margin:0;}
+.container{max-width:1200px;margin:0 auto;}
+.bread{font-size:20px;padding:20px 0}
+.brack a{color:#00b2c8;font-size: 16px;}  
+.apibox{ }
+.apilist li{line-height:35px;font-size:16px}
+
+
+
+.side{float:left;width:220px;background:#f5f5f5;overflow: hidden}
+
+.side .allcat{padding:20px 20px;border-bottom:1px solid #ddd;}
+.side-nav li p a{display:block;color:#888; line-height:12px; padding:6px 0 6px 5px;font-size:10px;} 
+.side-nav li{padding:15px 20px;}
+.side-nav li:hover,.side-nav li.active{background:#ddedf4;}
+.side-nav li a{ color:#777}
+ 
+ 
+.main{margin:0 0 0 250px;}
+.main .combox table{color:#777;font-size:14px;}
+.main .combox .info{padding-bottom:10px;color:#888}
+.main .combox h3{color:#555} 
+.bginfo td{background:#1ac0d5;color:#fff}
+
+
+.breadcrumb{margin:0;color:#777;height:40px;line-height: 40px;}
+.breadcrumb a{margin-right:6px;color:#00b2c8;}
+.breadcrumb a:hover{text-decoration: underline;} 
+
+.showapi{padding:0 0 20px 0;overflow: hidden}
+.showapi h3{font-size:26px;font-weight: normal;margin:0;padding-bottom:10px;}
+.showapi a.btn{color:#fff;border-radius: 5px; background: #00b3c8;display: inline-block;padding:2px 20px;}
+.showapi a.btn:hover{ background: #0497a8}
+.showapi span{color:#777;}
+.table a {color:#888!important;}
+.table tr td:hover a{color:#00a3c1!important;}
+.showapi p { }
+.mtp{margin-top:90px;}
+.inline{display: inline-block}
+
+.showapi .disc{color:#999; padding-top:10px;}
+.showapi .btn{margin-top:5px;}
+.apitable h4{ padding:8px 5px;margin:8px 0;font-size:14px; border-bottom:1px solid #ddd;font-weight: normal; }
+.apitable i{ width: 0;
+    height: 0; float:left;margin-top:5px;margin-right:5px;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid #222;}
+#tooltip{position:absolute;border-radius: 5px;color:#fff; border:1px solid #222;background:rgba(0,0,0,0.7);padding:2px 5px;display:none;}
+
+.foot{width:100%;z-index:2322;text-align:center;padding:35px 0; background:#fafafa;margin-top:20px}
+.foot p{line-height: 20px;padding:0;margin:0;color:#888;font-size: 12px;}
+.foot p a{color:#555;margin:0 5px;}
+.foot p a:hover{color:green; }
+
+
+
+.comments ul{margin-bottom:10px;}
+.comments ul li{border-bottom:1px solid #ddd;padding:15px 0}
+.comments ul li .pic{width:50px;height:50px;border:50%;float:left;}
+.comments ul li .rt{margin-left:70px;}
+.comments ul li .rt h3{font-size:18px;margin:0;padding-top:5px;font-weight:normal}
+.comments ul li .rt h3 span{color:#555}
+.comments ul li .rt h3 i{color:#999;font-style:normal;display:inline-block;padding-left:10px;}
+.comments ul li .rt p{padding-top:5px;color:#999;}
+
+
+.none{display:none}
+.itabs {border-bottom:1px solid #ddd;margin-bottom:10px;}
+.itabs span{ cursor:pointer;background:#f5f5f5; display:inline-block;padding:5px 15px;border:1px solid #ddd;border-bottom:0px;}
+.itabs span:hover{background:#f5f5f5;}
+.itabs span.active{background:#fff;border-bottom:1px solid #fff;margin-bottom:-1px;}
+.codebox{ margin-bottom:20px;min-height: 200px;}
+
+
+.pagination .previous {padding:0;border-bottom:0px}
+
+
+.ldcomment{margin-bottom:10px;}
+.ldcomment a{border:1px solid #eee;padding:3px 10px;background:#f5f5f5;display: block;text-decoration: none;}
+.ldcomment a:hover{text-decoration: none;}
+table{
+    TABLE-LAYOUT:fixed;
+    WORD-BREAK:break-all;
+}
+.mt20{margin-top:20px;}
+.tzer label{border:1px solid #eee;background:#f5f5f5;padding:3px 10px; text-align: center;border-radius: 5px;}
+.showapidisc{margin-bottom:10px;}
+.showapidisc dt{float:left;color:#777;font-weight: normal}
+.showapidisc dd{float:left;}
+.returnparam{margin:2px 0;padding:0 5px;background:#dff0d8; margin-left:20px;border:0px;display: inline-block}
+
+.sm-labs{margin:0 5px 5px 0;color:#fff;display:inline-block; vertical-align: middle;font-size:12px; border-radius:4px;padding:0 5px;}
+
+.matt{padding:5px;background:#eee}
