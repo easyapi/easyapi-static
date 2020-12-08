@@ -307,7 +307,7 @@
 .lg-form .mor {
     margin: 10px 0 50px;
 }
-.lg-form .otherbox{border-top:1px solid #ddd;margin-top:40px;padding-top:30px;}
+.lg-form .otherbox{padding-top:30px;}
 .lg-form .otherbox a{display:block;font-size:14px;color:#999}
 .lg-form .otherbox .btn-bor{border:1px solid #17c0d5}
 
@@ -318,11 +318,14 @@
 }
 
 .foot {
+    width: 100%;
     text-align: center;
     background:#fafafa;
     color: #777;
     padding: 70px 0 50px;
     font-size: 12px;
+    position: fixed;
+    bottom: 0;
 }
 .foot p{margin-bottom:10px;}
 .foot a {
@@ -1644,7 +1647,6 @@
 .tool .min select.form-control {
     border-left: 0px;
     border-radius: 5px;
-!important;
 }
 
 .tool .min .tbs {
@@ -2852,7 +2854,7 @@ tbody#atab .tooltip {
     font-size: 20px
 }
 
-.teamember {;
+.teamember {
     min-height: 500px;
 }
 
@@ -3314,7 +3316,7 @@ div.struct-class {box-shadow: 0 7px 21px rgba(0, 0, 0, .1)}
 
 
 .otherlogin{padding-top:30px;height:120px;text-align: center}
-.otherlogin .name{border-top:1px solid #ddd;position: relative;}
+.otherlogin .name{position: relative;}
 .otherlogin .name span{display: inline-block;background: #fff;color:#999;position: absolute;top:-10px;left:50%;margin-left:-50px;padding:0 15px;}
 .otherlogin  a{text-align: center;margin:0 10px;line-height:50px; display: inline-block;margin-top:20px;border:1px solid #ddd;border-radius: 50%;width:50px;height:50px;}
 .otherlogin  a i{font-size:24px;}
