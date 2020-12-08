@@ -322,6 +322,7 @@ input[type="reset"] {
   height: 680px;
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   overflow: hidden;
 }
 .site-header .title {
