@@ -7,7 +7,7 @@ p,dl,dt,dd{margin:0;}
 ul,li{list-style: none;padding:0;margin:0;}
 h1,h2,h3,h4{font-weight: normal;margin:0;padding:0;}
 
-.wp{max-width:1200px;margin:0 auto;}
+.wp{width:100%;margin:0 auto;padding: 0 30px;}
 .border{border:1px solid #ddd;}
 .clearfix:before,.clearfix:after {display: table;content: " ";}
 .clearfix:after {clear: both;}
@@ -26,7 +26,7 @@ h1,h2,h3,h4{font-weight: normal;margin:0;padding:0;}
 .borlab-danger{border:1px solid #ee5560;color:#ee5560}
 a.del-line{text-decoration:line-through}
 .yahei{font-family: "微软雅黑", "Arial", HELVETICA}
-.toper{position: relative;top:0px; height:72px;background: #18c1d6;border-bottom:1px solid #1b978f; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);}
+.toper{position: relative;top:0px; height:72px;background: #18c1d6;box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);}
 .toper .logo{margin-top:16px;width:170px;}
 .toper .navs{ line-height:68px;font-size:16px;height:58px}
 .toper .navs a{color:#fff;margin-left:20px;display: inline-block;padding:0 10px; }
