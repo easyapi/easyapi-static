@@ -4717,9 +4717,8 @@ div.struct-class {
 
 .btn_right_p{
     font-size: 20px;
-    color: #999
+    color: #999;
 }
 .input-with-select .el-input-group__prepend {
     background-color: #fff !important;
-    height: 48px;
-  }
+}
